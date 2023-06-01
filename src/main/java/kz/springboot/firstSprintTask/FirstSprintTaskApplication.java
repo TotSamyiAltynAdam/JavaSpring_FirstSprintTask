@@ -1,0 +1,13 @@
+package kz.springboot.firstSprintTask;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FirstSprintTaskApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FirstSprintTaskApplication.class, args);
+	}
+
+}
